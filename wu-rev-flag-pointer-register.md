@@ -6,7 +6,7 @@
 
 <img width="964" height="622" alt="image" src="https://github.com/user-attachments/assets/5e1d450c-6ff0-485f-aac6-d8f264f6ca3e" />
 
-You can find this challenge [here](https://nnsc.tf/challenges?challenge=rev_Flag+Pointer+Register)
+Có thể tìm challenge [ở đây](https://nnsc.tf/challenges?challenge=rev_Flag+Pointer+Register)
 
 ---
 
