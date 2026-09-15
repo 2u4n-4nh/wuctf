@@ -14,3 +14,6 @@ Do file `main.exe` là một công cụ thực thi có thể đóng gói toàn b
 
 Nhưng hàm thuật toán lại không được sắp xếp tuần tự mà được nằm rải rác trong các nút khác nhau ở các lệnh gọi máy chủ, không tuần tự từ trên xuống. Luồng thực thi k chạy thẳng mà chạy theo cách lộn xộn. Mã nguồn gốc của chương trình `main.exe` chỉ đảm nhận việc I/O.
 
+## Cấu trúc máy ảo VM bên trong file main.exe
+
+
